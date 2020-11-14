@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsBase/4.6.1055": {
+        "runtime": {
+          "lib/WindowsBase.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.1055.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsBase/4.6.1055": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1NKRZTcRus8Q1ZPZz9QAucHYHLHmQ3G+MMaFFZyPTDRpEfmIFLo9mtSyO8TZkEJFXaNXvnhenPod4ltd8EOHkg==",
+      "path": "windowsbase/4.6.1055",
+      "hashPath": "windowsbase.4.6.1055.nupkg.sha512"
+    }
+  }
+}

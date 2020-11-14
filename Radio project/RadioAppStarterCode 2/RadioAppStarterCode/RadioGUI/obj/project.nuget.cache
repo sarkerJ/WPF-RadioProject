@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "aL3cTrW4Q+8x5zTNfG6yQPpZZb7iyjbJyFu2FpiLrRN6UAmMN8aIDZN03FXRnRGU6N2RvfhpZJfd68E/ZFykZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioGUI\\RadioGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saadi\\.nuget\\packages\\windowsbase\\4.6.1055\\windowsbase.4.6.1055.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsBase 4.6.1055' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsBase",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
