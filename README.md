@@ -29,7 +29,7 @@ Created a radio application with a GUI layer
     * Change the file path to your own file path and ensure the music file are type **.mp3** for them to found by the application
 * If the **Radio is Off** you **cannot play anything** 
 
-* **Turn OFF ** button is to stop the radio entirely
+* **Turn OFF** button is to stop the radio entirely
 
 
 
