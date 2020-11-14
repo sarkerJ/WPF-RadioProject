@@ -207,11 +207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
+      "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
       "projectName": "RadioApp",
-      "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
+      "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj",
       "packagesPath": "C:\\Users\\saadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\obj\\",
+      "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

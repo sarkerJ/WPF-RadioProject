@@ -4632,11 +4632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\RadioTests.csproj",
+      "projectUniqueName": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\RadioTests.csproj",
       "projectName": "RadioTests",
-      "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\RadioTests.csproj",
+      "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\RadioTests.csproj",
       "packagesPath": "C:\\Users\\saadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\obj\\",
+      "outputPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4656,8 +4656,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj": {
-              "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\miniprojects\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj"
+            "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj": {
+              "projectPath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\RadioProject\\WPF-RadioProject\\Radio project\\RadioAppStarterCode 2\\RadioAppStarterCode\\RadioApp\\RadioApp.csproj"
             }
           }
         }
