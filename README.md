@@ -1,10 +1,22 @@
 # WPF-Radio Project
-Created a radio application with a GUI layer
+Created a **3 tier radio application** with a *Data Layer*, *Business Layer* and a *GUI layer*
 
 * Simple Radio with 5 channels that play the correct radio channels
 * Plays a selected playlist
 
-## Functionalities
+## Project Goal
+
+The project goal was to create a simple 3 tier radio application with which could at a minimum play the radio and swap between 4  different channels. 
+
+### MVP
+
+* The application must be able to play the different channels
+* The default channel should be channel one
+* When the radio is off clicking the any channel should inform the user the radio is off
+* Clicking play when the radio is off should inform the user that the radio is off
+* When the radio is on and play is clicked, the radio should play channel 1
+
+## All Functionalities
 
 * Turn Off
 * Turn On
@@ -16,7 +28,7 @@ Created a radio application with a GUI layer
 * Next song (Playlist function)
 * Previous song (Playlist function)
 
-##### Class Diagram
+### Class Diagram
 
 ![Class diagram](https://github.com/sarkerJ/WPF-RadioProject/blob/main/Images/Class%20Diagram.JPG)
 
